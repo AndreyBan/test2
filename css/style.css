@@ -1,0 +1,13 @@
+*{
+    outline: none!important;
+}
+html,
+body{
+    margin: 0;
+    padding: 0;
+}
+.test{
+    width: 100px;
+    height: 200px;
+    background-color: red;
+}
